@@ -4,4 +4,3 @@ def Guvi(number):
     else:
         return "odd"
 
-print(Guvi(4))
